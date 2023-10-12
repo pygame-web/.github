@@ -8,10 +8,14 @@
 
 ____
 
-Pygbag C runtime contains code adapted from :
+Pygbag C runtime uses libpython WebAssembly from:
+
+[CPython Wasm builds](https://github.com/python/cpython/tree/main/Tools/wasm)
+
+and contains code adapted from :
 
 
-[Panda3D](https://github.com/panda3d/panda3d/tree/webgl-port)  [WebGLport](https://rdb.name/panda3d-webgl.md.html)
+[Panda3D](https://github.com/panda3d/panda3d/tree/webgl-port) branch and [WebGLport](https://rdb.name/panda3d-webgl.md.html)
 
 
 
