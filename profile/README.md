@@ -38,9 +38,9 @@ Special Thanks apply to our sponsors :
 ### pygbag network api
 
 Please note that thanks to some recent money donations we will be able to provide a hub+api for multiplayer games for at least one year.
-Of course donors are granted as much applications ID they need as long the service costs can be split amongst them.
+Of course donors are granted as much applications ID they need as long the service costs can be splitted amongst them.
 
-For others please apply with on pygame-web channel of Pygame Community Discord for temporary free access ( all developpers IP address required in case of teams).
+For others please apply on pygame-web channel of Pygame Community Discord for temporary free access (all developpers IP addresses will be required in case of teams).
 
 No adult content whatsoever will be tolerated and lobbies/chats/ingame will be monitored for abuse or ill behaviour on the standard network (websockets). Please adopt self moderation behaviour.
 
