@@ -2,8 +2,11 @@
 
 ### Here you will get to run your python/pygame code directly inside web browsers.
 
-[Visit pygame-web.github.io page](https://pygame-web.github.io)
+[Visit pygame-web.github.io page](https://pygame-web.github.io) ( this is the documentation )
 
+
+Porting binary module (eg c/c++) is possible too, but is not documented at the moment and requires github CI (or a Linux based operating system)
+see https://github.com/pygame-web/pkg-porting-wasm/issues for more.
 
 ____
 
