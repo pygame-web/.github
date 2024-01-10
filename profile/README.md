@@ -17,7 +17,7 @@ Pygbag C runtime uses libpython WebAssembly from:
 and contains code adapted from :
 
 
-[Panda3D](https://github.com/panda3d/panda3d/tree/webgl-port) branch and [WebGLport](https://rdb.name/panda3d-webgl.md.html)
+[Panda3D](https://github.com/panda3d/panda3d/tree/webgl-port) branch and [WebGLport](https://rdb.name/panda3d-webgl.md#supplementalmodules)
 
 
 ____
