@@ -17,8 +17,9 @@ Pygbag C runtime uses libpython WebAssembly from:
 and contains code adapted from :
 
 
-[Panda3D](https://github.com/panda3d/panda3d/tree/webgl-port) branch and [WebGLport](https://rdb.name/panda3d-webgl.md#supplementalmodules)
+[Panda3D](https://github.com/panda3d/panda3d) and [WebGLport support modules](https://github.com/rdb/cpython-emscripten-modules) [doc](https://rdb.name/panda3d-webgl.md#supplementalmodules)
 
+Note that though pygame-web host a Panda3D wasm wheel it is not production ready.
 
 ____
 
