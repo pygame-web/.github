@@ -2,7 +2,7 @@
 
 ### Here you will get to run your python/pygame code directly inside web browsers.
 
-[Visit pygame-web.github.io page](https://pygame-web.github.io) ( this is the documentation )
+[Visit pygame-web.github.io page](https://pygame-web.github.io) (this is the documentation for pygbag the ready made tool you want to try first)
 
 
 Porting binary module (eg c/c++) is possible too, but is not documented at the moment and requires github CI (or a Linux based operating system)
