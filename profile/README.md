@@ -52,10 +52,11 @@ WebRTC should not be monitored, you are welcome to implement your bootstrap as l
 
 ### Funding
 I (pmp-p, lead dev.) would like to be able to sponsor :
- - Panda3D.
- - AFPY.
- - Eric IDE.
- - Framasoft
+ - [Panda3D](https://opencollective.com/panda3d)
+ - [AFPY](https://www.afpy.org/adherer)
+ - [Eric IDE](https://eric-ide.python-projects.org/)
+ - [Framasoft](https://framasoft.org/fr/#support)
+ - [Pygame Community](https://www.patreon.com/pygamecommunity)
  - Invididuals that helped in and/or maintain various parts of pygbag future.
  - (I'll extend this list when i have time, and issues about that are ok too )
    
