@@ -50,3 +50,13 @@ No adult content whatsoever will be tolerated and lobbies/chats/ingame will be m
 
 WebRTC should not be monitored, you are welcome to implement your bootstrap as long as you do not advertise for it and do not ask for it. Be smart and use friend-to-friend topology.
 
+### Funding
+I (pmp-p, lead dev.) would like to be able to sponsor :
+ - Panda3D.
+ - AFPY.
+ - Eric IDE.
+ - Framasoft
+ - Invididuals that helped in and/or maintain various parts of pygbag future.
+ - (I'll extend this list when i have time, and issues about that are ok too )
+   
+So if you fund pygame-web you will know where part of the flow is going.
