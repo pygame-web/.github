@@ -30,7 +30,6 @@ Witchcraft of course !
 But better [read the Real Answer](https://stackoverflow.com/questions/76265735/does-pygbag-directly-interprets-python-in-the-browser-or-compiles-it-to-wasm-and/77115432#77115432)
 
 
-
 ____
 
 Special Thanks apply to our sponsors :
@@ -61,3 +60,9 @@ I (pmp-p, lead dev.) would like to be able to sponsor :
  - (I'll extend this list when i have time, and issues about that are ok too )
    
 So if you fund pygame-web you will know where part of the flow is going.
+
+____
+
+
+### Related: [`pygame-community`](https://github.com/pygame-community) | [`pygame-examples`](https://github.com/pygame-examples) | [`pygame_gui`](https://github.com/MyreMylar/pygame_gui/)
+
